@@ -1,0 +1,47 @@
+header
+{
+    position: fixed;
+    width:100%;
+    display: flex;
+    background-color:#fdd598 ;
+    color: rgb(0, 0, 0);
+    justify-content: space-around;
+    
+}
+.menu
+{
+    display: flex;
+    background-color: #fdd598;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+}
+.menu li
+{
+    margin: 1rem;
+    font-size: 32px;
+    
+}
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul
+{
+    list-style-type: none;
+}
+.imagem
+{
+    background-image: url(vangogh.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+  display: flex;
+    width: 100%;
+     justify-content: center;
+     align-items: center;
+}
+.imagem
+{
+    width: 100%;
+}
